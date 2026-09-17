@@ -37,15 +37,6 @@ Aqui você pode encontrar projetos desenvolvidos durante meus estudos, colocando
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=johnvtor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnvtor&layout=compact&theme=tokyonight" alt="Linguagens mais usadas">
-</div>
-
----
-
 ## 📫 Como me encontrar
 
 <div align="center">
