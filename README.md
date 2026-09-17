@@ -52,21 +52,18 @@ Aqui você pode encontrar projetos desenvolvidos durante meus estudos, colocando
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO\&layout=compact\&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-
+USUARIO&show_icons=true&theme=tokyonight)
 </div>
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
+badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-
+badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
 ---
 
 ### 🎯 Objetivo
